@@ -18,4 +18,8 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Harsh97005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![Snake animation](https://github.com/Harsh97005/Harsh97005/blob/output/github-contribution-grid-snake.svg)
+
+
